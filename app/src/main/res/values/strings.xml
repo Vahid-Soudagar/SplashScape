@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SplashScape</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Collections</string>
+    <string name="menu_slideshow">Favourites</string>
+    <string name="photos">Photos</string>
+    <string name="collection">Collection</string>
+    <string name="favourites">Favourites</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="beautiful_mountain">Beautiful Mountain</string>
+    <string name="_12_photos">12 Photos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="vahid_soudagar">Vahid_Soudagar</string>
+    <string name="you_don_t_have_any_favourite_photo">You don\'t have any favourite photo</string>
+</resources>

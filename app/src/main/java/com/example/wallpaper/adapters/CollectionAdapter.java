@@ -7,7 +7,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
@@ -25,11 +24,9 @@ public class CollectionAdapter extends BaseAdapter {
     }
 
     private OnItemClickListener onClickListener;
-
     private final String TAG = CollectionAdapter.class.getSimpleName();
     private Context context;
     private List<Collection>  collectionList;
-
 
     public CollectionAdapter(Context context, List<Collection> collectionList, OnItemClickListener onClickListener) {
         this.context = context;
